@@ -1,0 +1,23 @@
+Movement
+1. Slopes don't slide
+2. Can get stuck with ceiling if character controller collides
+3. Can teleport to the sides of blocks which makes you slide of them x
+4. Continues gets stuck
+
+GunArea
+1. Magzines don't slide in gun x
+2. Gun don't leave hitPoint x
+
+ButtonsArea
+1. Buttons slide down to much x
+2. Hand hitbox to big x
+3. remote wrong way around in hand x
+
+General
+1. Can pick up objects from far away x
+1. ObjectPool is weird
+
+
+UI 
+1. Teleport after selecting teleport movement x
+

@@ -1,0 +1,13 @@
+Movement
+Ladder Climbing
+
+Buttons
+button interact with physics material (maybe?)
+
+Guns
+2 handed weapon
+Magazine count maters
+
+General
+UI explaining the areas
+Option to switch between continues telportation and snap movements
